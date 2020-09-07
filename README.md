@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hello Planet!
 
-<!--
-**joshin85/joshin85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shinjo, one of the people that you share the earth with, I was told to make this README for myself... which I'm not really comfortable with (still trying to figure things out), but here goes
 
-Here are some ideas to get you started:
+## Setting up local environment
+*TODO: start using Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. GOTO home dir
+```
+cd ~/Palo Alto
+```
+
+2. Install university
+```
+apt-get install san-jose-state-university computer-science
+```
+
+3. Start working
+```
+git clone hpe-fullstack
+touch 'api development'
+git add .
+git commit -m 'working in PHP, NODE, REACT'
+```
+
+4. Become an SRE
+```
+rm -rf hpe-fullstack
+ssh sre@linkedin.com
+```
+
+You should now have a fully running Shinjo
