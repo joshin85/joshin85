@@ -6,27 +6,34 @@ I'm Shinjo, one of the people that you share the earth with, I was told to make 
 *TODO: start using Docker
 
 1. GOTO home dir
-```
-cd ~/Palo Alto
+```bash
+$ cd ~/Palo Alto
 ```
 
 2. Install university
-```
-apt-get install san-jose-state-university computer-science
+```bash
+$ apt-get install san-jose-state-university computer-science
 ```
 
 3. Start working
-```
-git clone hpe-fullstack
-touch 'api development'
-git add .
-git commit -m 'working in PHP, NODE, REACT'
+```bash
+$ git clone hpe-fullstack
+$ touch 'api development'
+$ git add .
+$ git commit -m 'working in PHP, NODE, REACT'
 ```
 
 4. Become an SRE
-```
-rm -rf hpe-fullstack
-ssh sre@linkedin.com
+```bash
+$ rm -rf hpe-fullstack
+$ ssh sre@linkedin.com
 ```
 
-You should now have a fully running Shinjo
+5. Move to meta
+```bash
+$ exit
+$ ssh pe@meta.com
+$ apt get install ads-ml
+```
+
+You should now have a fully running Shinjo (feel free to open a PR if things aren't working)
